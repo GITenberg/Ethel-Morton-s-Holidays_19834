@@ -1,0 +1,31 @@
+_repo: Ethel-Morton-s-Holidays_19834
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Mabell S. C. (Mabell Shippie Clarke)
+    aliases:
+    - Smith, Mabell Shippie Clarke
+    - Pelton, Mabell Shippie Clarke
+    birthdate: 1864
+    deathdate: 1942
+    gutenberg_agent_id: '6118'
+    url: http://www.gutenberg.org/2009/agents/6118
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Holidays -- Juvenile fiction'
+- !lcsh 'Children -- Societies and clubs -- Juvenile fiction'
+title: Ethel Morton's Holidays
+url: http://www.gutenberg.org/ebooks/19834
